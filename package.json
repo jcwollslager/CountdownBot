@@ -1,0 +1,15 @@
+{
+  "name": "CountdownBot",
+  "version": "1.0.0",
+  "description": "A bot who counts things down",
+  "main": "bot.js",
+  "author": "20/20 Gamer",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0",
+    "async": "^1.4.2",
+    "graceful-fs": "^4.1.2",
+    "mkdirp": "^0.5.1",
+    "node-uuid": "^1.4.4"
+  }
+}
